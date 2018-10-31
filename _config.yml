@@ -1,0 +1,62 @@
+color:
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.4123293294105679
+  lightness: 0.21142662898637354
+  saturation: 0.12027176027186215
+  rhythmicContrast: 0.5222168329637498
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: PaulOwenPhotographyLLC
+layout_spectrum: 0.8908545312006027
+typography_spectrum: 0.10096364933997393
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ef534ca-cd5a-4454-84e5-d3d2fc9b6607.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ef534ca-cd5a-4454-84e5-d3d2fc9b6607.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: Corporate and Business Photography
+description: Your Image and first impression is everything
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1e48a95-2593-4cf7-acda-88d86a4b4734.png
+purpose:
+  - type: contact
+    url: 'tel:2627970602'
+    label: Call 262 797 0602
+  - type: contact
+    url: 'mailto:pkrowen@gmail.com'
+    label: Contact me
+author:
+  name: Paul Owen
+  email: pkrowen@gmail.com
+  url: 'https://milwaukeecorporatephotos.com'
+github: true
